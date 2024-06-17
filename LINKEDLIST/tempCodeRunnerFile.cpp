@@ -1,0 +1,2 @@
+  statingNode(head);
+    removeLoop(head);
